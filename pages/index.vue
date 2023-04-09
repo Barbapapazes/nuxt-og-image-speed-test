@@ -1,8 +1,6 @@
 <script lang="ts" setup>
 defineOgImageStatic({
   component: 'MyOgImage',
-  title: 'My home page',
-  background: 'bg-green-500',
 })
 </script>
 
